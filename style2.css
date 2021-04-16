@@ -1,0 +1,36 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.color{
+    background-color: black;
+    color: white;
+}
+
+table{
+    border: black 2px solid;
+    margin-left: 35%;
+}
+tr, td{
+    border: black 2px solid;
+}
+td{
+    padding: 7px;
+}
+ol{
+    margin-left: 10px;
+}
+
+h2{
+    text-align: center;
+}
+p{
+    width: 32%;
+    text-align: center;
+    margin-left: 35%;
+    margin-top: 15px;
+}
+body{
+    background-color: rebeccapurple;
+}
